@@ -1,0 +1,9 @@
+<resources>
+    <string name="scan">Scan</string>
+    <string name="app_name">TestCamera</string>
+    <string name="app_select_image">SelectImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bar_code">BarCodeActivity</string>
+    <string name="title_activity_add_edit_note">AddEditNoteActivity</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+</resources>
